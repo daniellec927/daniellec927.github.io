@@ -2,9 +2,10 @@
 # Delete or comment out any line you don't use -- blank values are skipped.
 # Full list of supported networks: https://github.com/george-gca/jekyll-socials
 
+cv_pdf: /assets/files/Danielle_Choi_CV.pdf
 email: daniellec927@gmail.com
 github_username: daniellec927
-linkedin_username: linkedin.com/in/daniellec927 # TODO: the slug from linkedin.com/in/<slug>
+linkedin_username: linkedin.com/in/daniellec927
 x_username: danielleeechoi
 # kaggle_id: # TODO: your Kaggle username
 # medium_username: # your Medium handle

@@ -31,12 +31,21 @@ latest_posts:
 Hi, I am Danielle!
 
 I am a recent new grad from UCLA.
+
 I work on data science/machine learning projects, and love to learn new things.
+
 My main interest is: _health, finance, and tech_.
+
 I enjoy trying challenges.
+
 I am currently learning about cloud engineering.
 
-LinkedIn: [daniellec927](https://www.linkedin.com/in/daniellec927/)
-GitHub: [daniellec927](https://github.com/daniellec927)
+
+
 **Email**: [daniellec927](mailto:daniellec927@gmail.com)
+
+LinkedIn: [daniellec927](https://www.linkedin.com/in/daniellec927/)
+
+GitHub: [daniellec927](https://github.com/daniellec927)
+
 Phone: +1(213)554-8448
