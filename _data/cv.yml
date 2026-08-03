@@ -1,0 +1,58 @@
+# Drives the /cv/ page. Each top-level entry is one section.
+# `type` can be: map, time_table, list, nested_list.
+# Delete sections you don't need; duplicate entries to add more rows.
+
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: TODO — your full name
+    - name: Location
+      value: TODO — city, country
+    - name: Languages
+      value: TODO — e.g. Korean (native), English (fluent)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: TODO — degree, e.g. BSc in Statistics
+      institution: TODO — school name
+      year: TODO — e.g. 2021 - 2025
+      description:
+        - TODO — a highlight such as thesis title, relevant coursework, or honors
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: TODO — job title
+      institution: TODO — company or lab
+      year: TODO — e.g. 2025 - present
+      description:
+        - TODO — what you built or found. Include a number if you have one.
+        - TODO — a second bullet, or delete this line
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: TODO — project name
+      year: TODO — year
+      description: TODO — one line, and link to the project page
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Languages & Tools
+      items:
+        - TODO — e.g. Python
+        - TODO — e.g. SQL
+    - title: Libraries
+      items:
+        - TODO — e.g. pandas, scikit-learn
+    - title: Platforms
+      items:
+        - TODO — e.g. AWS, Tableau
+
+- title: Other Interests
+  type: list
+  contents:
+    - TODO — optional. Hobbies, communities, volunteering. Delete this section if unwanted.

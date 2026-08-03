@@ -1,0 +1,13 @@
+# Social links shown on the about page and in the footer.
+# Delete or comment out any line you don't use -- blank values are skipped.
+# Full list of supported networks: https://github.com/george-gca/jekyll-socials
+
+email: # TODO: your email address
+github_username: daniellec927
+linkedin_username: # TODO: the slug from linkedin.com/in/<slug>
+# x_username: # TODO: your X/Twitter handle (no @)
+# kaggle_id: # TODO: your Kaggle username
+# medium_username: # TODO: your Medium handle
+# scholar_userid: # TODO: your Google Scholar ID (only if you publish)
+
+rss_icon: true # comment out to hide the RSS icon
