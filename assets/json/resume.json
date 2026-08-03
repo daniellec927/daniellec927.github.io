@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Danielle Choi",
+    "label": "Data Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "daniellec927@gmail.com",
+    "phone": "(213) 554-8448",
+    "url": "https://daniellec927.github.io/",
+    "summary": "UCLA new grad, interested in data science and machine learning.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -47,13 +47,13 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of California, Los Angeles",
+      "location": "Los Angeles, CA",
+      "url": "https://www.ucla.edu/",
+      "area": "Cognitive Science",
+      "studyType": "B.S.",
+      "startDate": "2022-09-21",
+      "endDate": "2026-06-13",
       "score": "10",
       "courses": ["Theory of Relativity"]
     }
