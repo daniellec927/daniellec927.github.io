@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: TODO — one line introducing your project collection
+description: These are my projects!
 nav: true
 nav_order: 2
-display_categories: [projects, coursework] # TODO: rename/extend; must match the `category:` in each _projects file
+display_categories: [projects, coursework] # rename/extend; must match the `category:` in each _projects file
 horizontal: false
 ---
 

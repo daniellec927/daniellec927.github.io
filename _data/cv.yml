@@ -6,20 +6,20 @@
   type: map
   contents:
     - name: Full Name
-      value: TODO — your full name
+      value: Danielle Choi
     - name: Location
-      value: TODO — city, country
+      value: Los Angeles, CA
     - name: Languages
-      value: TODO — e.g. Korean (native), English (fluent)
+      value: English (native), Korean (native), German (elementary)
 
 - title: Education
   type: time_table
   contents:
-    - title: TODO — degree, e.g. BSc in Statistics
-      institution: TODO — school name
-      year: TODO — e.g. 2021 - 2025
+    - title: B.S. in Cognitive Science, Minor in Data Science Engineering, Philosophy
+      institution: University of California, Los Angeles
+      year: 2022-2026
       description:
-        - TODO — a highlight such as thesis title, relevant coursework, or honors
+        - Probability and Statistics, Machine Learning, Biological and Artificial Neural Networks, Data Science, Reinforcement Learning, Data Management Systems, Logic and Semantics, Algorithm and Complexity
 
 - title: Experience
   type: time_table

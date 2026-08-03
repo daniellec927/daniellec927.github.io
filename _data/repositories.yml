@@ -8,3 +8,4 @@ repo_description_lines_max: 2
 # TODO: list the repos you want featured, in "owner/name" form.
 github_repos:
   - daniellec927/daniellec927.github.io
+  - daniellec927/march-madness-predictions

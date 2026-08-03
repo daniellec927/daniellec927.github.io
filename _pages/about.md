@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # One line shown under your name. HTML links are allowed.
-subtitle: TODO — e.g. Data Scientist. Python, SQL, and messy real-world data.
+subtitle: Data Scientist; Python, SQL, and messy real-world data.
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
   image_circular: false # set to true to crop the photo into a circle
   # Optional text under your photo. Delete these three lines to hide it.
   more_info: >
-    <p>Seoul, South Korea</p>
+    <p>Los Angeles, CA 90024</p>
 
 selected_papers: false # this site has no publications page
 social: true # social icons at the bottom — edit _data/socials.yml
@@ -28,13 +28,15 @@ latest_posts:
   limit: 3
 ---
 
-TODO — write your bio here. A few short paragraphs is plenty.
+Hi, I am Danielle!
 
-A shape that works well:
+I am a recent new grad from UCLA.
+I work on data science/machine learning projects, and love to learn new things.
+My main interest is: _health, finance, and tech_.
+I enjoy trying challenges.
+I am currently learning about cloud engineering.
 
-- who you are and what you work on
-- the kinds of problems or data you enjoy
-- what you're currently learning or looking for
-- how to reach you
-
-Markdown works throughout: **bold**, _italic_, [links](https://example.com), lists, and images.
+LinkedIn: [daniellec927](https://www.linkedin.com/in/daniellec927/)
+GitHub: [daniellec927](https://github.com/daniellec927)
+**Email**: [daniellec927](mailto:daniellec927@gmail.com)
+Phone: +1(213)554-8448

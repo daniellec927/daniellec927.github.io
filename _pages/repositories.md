@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: TODO — one line introducing your GitHub work
+description: I do data science and machine learning projects.
 nav: true
 nav_order: 3
 ---
