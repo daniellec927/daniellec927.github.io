@@ -18,21 +18,21 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "TODO — one line introducing your project collection",
+          description: "These are my projects!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "TODO — one line introducing your GitHub work",
+          description: "I do data science and machine learning projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "TODO — one line introducing your CV",
+          description: "Hi, this is my CV! Download it, if you are interested.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -400,11 +400,11 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-todo-a-one-line-update-e-g-started-as-a-data-analyst-at-delete-this-file-or-add-more-like-it",
-          title: 'TODO — a one-line update, e.g. “Started as a Data Analyst at ___.”...',
+      },{id: "news-graduated-from-ucla",
+          title: 'Graduated from UCLA.',
           description: "",
-          section: "News",},{id: "news-todo-a-longer-announcement",
-          title: 'TODO — a longer announcement',
+          section: "News",},{id: "news-currently-job-hunting",
+          title: 'Currently job hunting',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-06-01-example/";
@@ -438,7 +438,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:", "_blank");
+          window.open("mailto:%64%61%6E%69%65%6C%6C%65%63%39%32%37@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
@@ -452,7 +452,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/", "_blank");
+          window.open("https://www.linkedin.com/in/linkedin.com/in/daniellec927", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/danielleeechoi", "_blank");
         },
       },{
         id: 'social-rss',
