@@ -8,17 +8,22 @@
     "url": "https://daniellec927.github.io/",
     "summary": "UCLA new grad, interested in data science and machine learning.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "CA 90024",
+      "city": "Los Angeles",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "danielleeechoi",
+        "url": "https://twitter.com/danielleeechoi"
+      },
+      {
+        "network": "Instagram",
+        "username": "daniellec927",
+        "url": "https://instagram.com/daniellec927"
       }
     ]
   },
@@ -50,21 +55,28 @@
       "institution": "University of California, Los Angeles",
       "location": "Los Angeles, CA",
       "url": "https://www.ucla.edu/",
-      "area": "Cognitive Science",
+      "area": "Cognitive Science Major, Minor in Data Science Engineering, Philsophy",
       "studyType": "B.S.",
       "startDate": "2022-09-21",
       "endDate": "2026-06-13",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "score": "3.90 GPA",
+      "courses": ["Probability and Statistics", "Machine Learning", "Biological and Artificial Neural Networks", "Data Science", "Reinforcement Learning", "Data Management Systems", "Logic and Semantics", "Algorithm and Complexity"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Award of Achievement for Diversity and Equality in Research",
+      "date": "2024-05-01",
+      "awarder": "UCLA Psi Chi Honor Society",
+      "url": "",
+      "summary": "Received for excellence in research and data-driven advocacy for the study: \"Exploring Help-Seeking Intentions Among Undergraduate Students of Color.\" Recognized for methodological rigor in analyzing sociocultural impacts on mental health access within a large-scale student dataset (N=600)."
+    },
+    {
+      "title": "Dean's Honors List",
+      "date": "2025-12-01", 
+      "awarder": "UCLA College of Letters and Science",
+      "url": "",
+      "summary": "Recognized for outstanding academic performance, achieving a GPA of 3.9 or higher during the academic quarter."
     }
   ],
   "certificates": [
@@ -136,34 +148,40 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Statistics and Probability",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Markov Chains Monte Carlo",
+        "Bayesian Inference",
+        "Maximum Likelihood Estimation",
+        "Hypothesis Testing",
+        "Central Limit Theorem",
+        "Linear Regression",
+        "Logistic Regression"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Korean",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Elementary proficiency",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Data Science/Machine Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Quantum Mechanics",
