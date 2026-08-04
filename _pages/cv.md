@@ -6,6 +6,7 @@ nav: true
 nav_order: 4
 cv_pdf: /assets/pdf/Danielle_Choi_CV.pdf # drop your CV in assets/pdf/
        # Leave blank to hide the download button. External URLs also work.
+transcript_pdf: /assets/pdf/Danielle_Choi_official_transcript.pdf
 description: Hi, this is my CV! Download it, if you are interested.
 toc:
   sidebar: left
