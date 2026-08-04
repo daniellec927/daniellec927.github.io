@@ -81,14 +81,24 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Patient Health History Record System | DemocracyLab",
+      "location": "Remote",
+      "position": "Data Scientist",
+      "url": "",
+      "startDate": "2026-07-01",
+      "endDate": "current",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "organization": "Civic Data Tech | DemocracyLab",
+      "location": "Remote",
+      "position": "Data Scientist",
+      "url": "",
+      "startDate": "2026-07-01",
+      "endDate": "current",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "education": [
@@ -107,51 +117,51 @@
   "awards": [
     {
       "title": "Award of Achievement for Diversity and Equality in Research",
-      "date": "2024-05-01",
+      "date": "2024-05",
       "awarder": "UCLA Psi Chi Honor Society",
       "url": "",
       "summary": "Received for excellence in research and data-driven advocacy for the study: \"Exploring Help-Seeking Intentions Among Undergraduate Students of Color.\" Recognized for methodological rigor in analyzing sociocultural impacts on mental health access within a large-scale student dataset (N=600)."
     },
     {
       "title": "Dean's Honors List",
-      "date": "2025-12-01",
+      "date": "2025-12",
       "awarder": "UCLA College of Letters and Science",
       "url": "",
-      "summary": "Recognized for outstanding academic performance, achieving a GPA of 3.9 or higher during the academic quarter. Other dates include: 2022-12-01, 2023-06-01, 2023-12-01, 2024-06-01, 2024-12-01, 2025-06-01."
+      "summary": "Recognized for outstanding academic performance, achieving a GPA of 3.9 or higher during the academic quarter. Other dates include: 2022-12, 2023-06, 2023-12, 2024-06, 2024-12, 2025-06."
     }
   ],
   "certificates": [
     {
       "name": "Certificate of Completion: Claude 101",
-      "date": "2026-07-01",
+      "date": "2026-07",
       "issuer": "Anthropic",
       "url": "https://www.linkedin.com/in/daniellec927/details/certifications/",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Certificate of Completion: AI Fluency Framework & Foundations",
-      "date": "2026-07-01",
+      "date": "2026-07",
       "issuer": "Anthropic",
       "url": "https://www.linkedin.com/in/daniellec927/details/certifications/",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Data Science and Machine Learning: Making Data-driven Decisions by MIT IDSS",
-      "date": "2025-02-01",
+      "date": "2025-02",
       "issuer": "Great Learning",
       "url": "https://www.linkedin.com/in/daniellec927/details/certifications/",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Become a Python Master",
-      "date": "2024-01-01",
+      "date": "2024-01",
       "issuer": "Programiz",
       "url": "https://www.linkedin.com/in/daniellec927/details/certifications/",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Microsoft Office Specialist Certification",
-      "date": "2022-09-01",
+      "date": "2022-09",
       "issuer": "Microsoft",
       "url": "https://www.linkedin.com/in/daniellec927/details/certifications/",
       "icon": "fa-solid fa-tag"
@@ -168,7 +178,7 @@
     {
       "name": "Analysis of heavy metal contamination caused by DMZ military activities and heavy metal adsorption capacity of plants",
       "publisher": "DMZ Youth Forum: Youth Environmental Ecology Thesis and Poster Presentation",
-      "releaseDate": "2020-11-14",
+      "releaseDate": "2020-11",
       "url": "",
       "summary": "Published a research paper investigating the environmental impact of military activities in the Demilitarized Zone (DMZ). Conducted an analysis of heavy metal contamination levels and evaluated the adsorption capacity of B. frondosa and 10 other native plant species to determine their effectiveness in soil phytoremediation."
     }
