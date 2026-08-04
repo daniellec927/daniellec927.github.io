@@ -29,13 +29,54 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "ZEKI | Zentrum für erlebbare KI und Digitalisierung",
+      "position": "AI Perception & Robotics Intern",
+      "location": "Berlin,Germany",
+      "url": "",
+      "startDate": "2025-06-01",
+      "endDate": "2025-08-01",
+      "summary": "Building a real-time social-perception system for a companion robot, adding emotion mirroring with DeepFace, fixing a low-light face detection bug, and reverse-engineering vendor SDK limits",
+      "highlights": [""]
+    },
+    {
+      "name": "U.S. Department of Veterans Affairs - Digital Media Engagement Team",
+      "position": "Prompt Engineer Team Coordinator Intern",
+      "location": "Remote",
+      "url": "",
+      "startDate": "2024-09-01",
+      "endDate": "2025-06-01",
+      "summary": "Building multi-step LLM pipelines, creating a claim-level fact-checking system, training non-technical peers, and promoting to Team Coordinator",
+      "highlights": [""]
+    },
+    {
+      "name": "UCLA Psi Chi",
+      "position": "Research Assistant",
+      "location": "Los Angeles, CA",
+      "url": "",
+      "startDate": "2023-11-01",
+      "endDate": "2024-06-01",
+      "summary": "Co-designing a large-scale academic study on help-seeking behavior, managing complex IRB protocols, executing ANOVA statistical testing, and winning an institutional diversity award at UCLA",
+      "highlights": [""]
+    },
+    {
+      "name": "UCLA AI Safety Alignment Research Team",
+      "position": "Research Team Member",
+      "location": "Los Angeles, CA",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2023-06-01",
+      "summary": "Building a GPU-accelerated ray tracer in Rust and Vulkan, paired with an AI-driven image denoiser powered by a diffusion model",
+      "highlights": [""]
+    },
+    {
+      "name": "UCLA Computational Vision and Learning Lab",
+      "position": "Undergraduate Researcher",
+      "location": "Los Angeles, CA",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2023-03-01",
+      "summary": "Building a Vision Transformer from scratch, leading advanced technical workshops, and benchmarking model reasoning",
+      "highlights": [""]
     }
   ],
   "volunteer": [
