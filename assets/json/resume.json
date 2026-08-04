@@ -73,54 +73,47 @@
     },
     {
       "title": "Dean's Honors List",
-      "date": ["2025-12-01","2025-06-01","2024-06-01","2023-03-01","2022-12-01"],
+      "date": "2025-12-01",
       "awarder": "UCLA College of Letters and Science",
       "url": "",
-      "summary": "Recognized for outstanding academic performance, achieving a GPA of 3.9 or higher during the academic quarter."
+      "summary": "Recognized for outstanding academic performance, achieving a GPA of 3.9 or higher during the academic quarter. Other dates include: 2022-12-01, 2023-06-01, 2023-12-01, 2024-06-01, 2024-12-01, 2025-06-01."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Certificate of Completion: Claude 101",
+      "date": "2026-07-01",
+      "issuer": "Anthropic",
+      "url": "https://www.linkedin.com/in/daniellec927/details/certifications/",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Certificate of Completion: AI Fluency Framework & Foundations",
+      "date": "2026-07-01",
+      "issuer": "Anthropic",
+      "url": "https://www.linkedin.com/in/daniellec927/details/certifications/",
+      "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Data Science and Machine Learning: Making Data-driven Decisions by MIT IDSS",
+      "date": "2025-02-01",
+      "issuer": "Great Learning",
+      "url": "https://www.linkedin.com/in/daniellec927/details/certifications/",
+      "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Become a Python Master",
+      "date": "2024-01-01",
+      "issuer": "Programiz",
+      "url": "https://www.linkedin.com/in/daniellec927/details/certifications/",
+      "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Microsoft Office Specialist Certification",
+      "date": "2022-09-01",
+      "issuer": "Microsoft",
+      "url": "https://www.linkedin.com/in/daniellec927/details/certifications/",
+      "icon": "fa-solid fa-tag"
     }
   ],
   "skills": [
@@ -178,7 +171,7 @@
     },
     {
       "name": "N/A",
-      "icon": "fa-solid fa-thumbtack",
+      "icon": "fa-solid fa-envelope",
       "reference": "description"
     }
   ],
