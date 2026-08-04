@@ -157,6 +157,22 @@
       "icon": "fa-solid fa-tag"
     }
   ],
+  "publications": [
+    {
+      "name": "Exploring Help-Seeking Intentions Among Undergraduate Students of Color",
+      "publisher": "UCLA Psi Chi Honor Society",
+      "releaseDate": "2024-05-01",
+      "url": "",
+      "summary": "Presented a technical poster to over 100 faculty and peers detailing the results of a longitudinal study on help-seeking behaviors."
+    },
+    {
+      "name": "Analysis of heavy metal contamination caused by DMZ military activities and heavy metal adsorption capacity of plants",
+      "publisher": "DMZ Youth Forum: Youth Environmental Ecology Thesis and Poster Presentation",
+      "releaseDate": "2020-11-14",
+      "url": "",
+      "summary": "Published a research paper investigating the environmental impact of military activities in the Demilitarized Zone (DMZ). Conducted an analysis of heavy metal contamination levels and evaluated the adsorption capacity of B. frondosa and 10 other native plant species to determine their effectiveness in soil phytoremediation."
+    }
+  ],
   "skills": [
     {
       "name": "Statistics and Probability",
