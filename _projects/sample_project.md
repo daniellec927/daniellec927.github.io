@@ -3,7 +3,7 @@ layout: page
 title: TODO — project name
 description: TODO — one line on what it does and why it matters
 img: assets/img/3.jpg # swap for your own thumbnail placed in assets/img/
-importance: 2 # lower number sorts earlier within the category
+importance: 0 # lower number sorts earlier within the category
 category: projects # must match one of `display_categories` in _pages/projects.md
 # redirect: https://github.com/you/repo   # uncomment to link the card straight to an external page
 ---
