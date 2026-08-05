@@ -244,12 +244,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "March Madness Predictions",
+      "summary": "Developed a machine learning model to predict outcomes of the NCAA Men's and Women's Basketball Tournament.",
+      "highlights": ["Improved prediction accuracy by 15%", "Utilized historical game data and team statistics"],
+      "startDate": "2026-02",
+      "endDate": "2026-03",
+      "url": "https://github.com/daniellec927/march-madness-predictions"
     }
   ]
 }
