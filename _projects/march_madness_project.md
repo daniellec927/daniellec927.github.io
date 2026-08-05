@@ -5,7 +5,7 @@ description: ML model that predicts the outcome of NCAA Men's and Women's March 
 img: #assets/img/1.jpg # swap for your own thumbnail placed in assets/img/
 importance: 1 # lower number sorts earlier within the category
 category: projects # must match one of `display_categories` in _pages/projects.md
-redirect: https://github.com/daniellec927/march-madness-predictions   # uncomment to link the card straight to an external page
+redirect: #https://github.com/daniellec927/march-madness-predictions   # uncomment to link the card straight to an external page
 ---
 
 A structure that works well for data science:
