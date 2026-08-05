@@ -59,7 +59,7 @@ This project was done as an experiment format, comparing various neural network 
     (4) MLP Regressor model with Ensemble method
     (5) Blended model (MLP Regressor model 90% + Linear Regression model 10%)
 
-![Blended model architecture](assets/img/march-madness-model-architechture.png)
+![Blended model architecture](assets/img/march-madness-model-architecture.png)
 
 4. **Results**
 
