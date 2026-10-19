@@ -1,0 +1,102 @@
+/* Danielle Choi — portfolio styles.
+   You shouldn't need to edit this file. To change the accent color, edit --accent below. */
+
+:root{
+  --bg:#FBFBFC; --surface:#FFFFFF; --ink:#16202B; --muted:#596472; --line:#E1E5EA;
+  --accent:#1F5FA8; --accent-soft:#E6EEF8;
+  --ok:#1C7A4A; --ok-bg:#E0F2E8; --wip:#8A5A00; --wip-bg:#FAF0D9;
+  --f-head:"Source Serif 4", Georgia, "Times New Roman", serif;
+  --f-body:"Source Sans 3", "Segoe UI", system-ui, -apple-system, sans-serif;
+  --f-mono:"IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#0F141A; --surface:#161D25; --ink:#E6EBF1; --muted:#9AA6B4; --line:#283240;
+    --accent:#86B4EE; --accent-soft:#1B2A3D;
+    --ok:#7FD4A3; --ok-bg:#163223; --wip:#EBC36B; --wip-bg:#352A12;
+    color-scheme:dark;
+  }
+}
+
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:17px;line-height:1.6}
+img{max-width:100%;height:auto;display:block}
+a{color:var(--accent);text-underline-offset:3px}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:2px}
+h1,h2,h3{font-family:var(--f-head);line-height:1.2;margin:0;text-wrap:balance}
+p{margin:0}
+
+.container{max-width:880px;margin:0 auto;padding-left:max(20px,env(safe-area-inset-left));padding-right:max(20px,env(safe-area-inset-right))}
+
+/* Top navigation */
+.nav{border-bottom:1px solid var(--line);background:var(--bg);position:sticky;top:0;z-index:10}
+.nav .container{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px 20px;padding-block:14px}
+.nav .name{font-family:var(--f-head);font-weight:600;font-size:1.1rem;color:var(--ink);text-decoration:none}
+.nav ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:4px 20px;font-size:.95rem}
+.nav ul a{color:var(--muted);text-decoration:none}
+.nav ul a:hover{color:var(--accent)}
+
+/* Sections */
+section{padding-block:56px;border-bottom:1px solid var(--line)}
+section:last-of-type{border-bottom:0}
+.label{font-family:var(--f-mono);font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin-bottom:10px}
+.section-title{font-size:1.75rem;margin-bottom:24px}
+
+/* Intro */
+.intro h1{font-size:clamp(2.1rem,5vw,3rem);margin-bottom:16px}
+.intro .lede{font-size:1.25rem;max-width:36ch;margin-bottom:16px}
+.intro .sub{color:var(--muted);max-width:62ch}
+.intro .links{display:flex;flex-wrap:wrap;gap:10px 22px;margin-top:22px;font-weight:600}
+
+/* Project cards */
+.cards{display:grid;gap:18px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:22px;display:flex;flex-direction:column;gap:10px}
+.card h3{font-size:1.25rem}
+.card h3 a{color:var(--ink);text-decoration:none}
+.card h3 a:hover{color:var(--accent)}
+.card .q{color:var(--muted)}
+.meta{display:flex;flex-wrap:wrap;gap:6px 8px;align-items:center}
+.tag{font-family:var(--f-mono);font-size:.72rem;padding:2px 9px;border-radius:99px;background:var(--accent-soft);color:var(--accent)}
+.status{font-family:var(--f-mono);font-size:.72rem;padding:2px 9px;border-radius:99px;text-transform:uppercase;letter-spacing:.04em}
+.status.done{background:var(--ok-bg);color:var(--ok)}
+.status.wip{background:var(--wip-bg);color:var(--wip)}
+.card .actions{display:flex;flex-wrap:wrap;gap:6px 18px;font-weight:600;font-size:.95rem}
+.building{margin-top:28px;color:var(--muted)}
+.building ul{margin:8px 0 0;padding-left:20px}
+
+/* Experience */
+.job{display:grid;grid-template-columns:minmax(0,190px) minmax(0,1fr);gap:6px 28px;padding-block:18px;border-top:1px solid var(--line)}
+.job:first-of-type{border-top:0;padding-top:0}
+.job .when{font-family:var(--f-mono);font-size:.8rem;color:var(--muted);padding-top:4px}
+.job h3{font-size:1.1rem}
+.job .org{color:var(--muted);margin-bottom:6px}
+.job ul{margin:6px 0 0;padding-left:20px}
+.job li{margin-bottom:4px}
+@media (max-width:620px){.job{grid-template-columns:1fr}}
+
+.skills{color:var(--muted)}
+footer{padding-block:32px;color:var(--muted);font-size:.9rem}
+
+/* ---------- Case-study pages ---------- */
+.cs-hero{padding-block:48px 32px}
+.cs-hero h1{font-size:clamp(1.9rem,4.5vw,2.6rem);margin-bottom:14px}
+.cs-hero .lede{font-size:1.2rem;color:var(--muted);max-width:60ch}
+.cs-facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:16px;margin-top:28px;padding-top:20px;border-top:1px solid var(--line)}
+.cs-facts dt{font-family:var(--f-mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.cs-facts dd{margin:4px 0 0}
+.tldr{background:var(--accent-soft);border-radius:10px;padding:20px 22px;margin-bottom:8px}
+.tldr strong{display:block;font-family:var(--f-mono);font-size:.75rem;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);margin-bottom:6px}
+.tldr p{font-size:1.15rem}
+.prose{max-width:68ch;display:flex;flex-direction:column;gap:16px}
+.prose h2{font-size:1.45rem;margin-top:24px}
+.prose ul,.prose ol{margin:0;padding-left:22px}
+.prose li{margin-bottom:6px}
+figure{margin:8px 0}
+figure img{border:1px solid var(--line);border-radius:8px}
+figcaption{font-size:.9rem;color:var(--muted);margin-top:8px}
+.big-number{display:flex;flex-wrap:wrap;gap:16px}
+.big-number div{flex:1 1 150px;border:1px solid var(--line);border-radius:8px;padding:14px 16px;background:var(--surface)}
+.big-number b{display:block;font-family:var(--f-head);font-size:1.9rem;font-variant-numeric:tabular-nums}
+.big-number span{font-size:.9rem;color:var(--muted)}
+.back{display:inline-block;margin-top:32px;font-weight:600}
